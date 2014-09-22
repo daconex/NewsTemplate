@@ -1,0 +1,4 @@
+NewsTemplate
+============
+
+HTML news template
